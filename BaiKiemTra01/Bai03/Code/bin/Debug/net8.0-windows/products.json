@@ -1,0 +1,29 @@
+﻿[
+  {
+    "ProductId": "SP001",
+    "ProductName": "iPhone 15 Pro",
+    "CategoryId": 1,
+    "CategoryName": "\u0110i\u1EC7n tho\u1EA1i",
+    "UnitPrice": 28990000,
+    "Quantity": 10,
+    "ImagePath": null
+  },
+  {
+    "ProductId": "SP002",
+    "ProductName": "Laptop Dell XPS 13",
+    "CategoryId": 2,
+    "CategoryName": "Laptop",
+    "UnitPrice": 32500000,
+    "Quantity": 5,
+    "ImagePath": null
+  },
+  {
+    "ProductId": "SP003",
+    "ProductName": "Chu\u1ED9t Logitech MX Master 3",
+    "CategoryId": 3,
+    "CategoryName": "Ph\u1EE5 ki\u1EC7n",
+    "UnitPrice": 2190000,
+    "Quantity": 25,
+    "ImagePath": null
+  }
+]

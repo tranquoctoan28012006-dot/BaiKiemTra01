@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\BaiKiemTra01\Bai02\Code\QuanLyPhuongTien1\QuanLyPhuongTien1\bin\Debug\QuanLyPhuongTien1.exe.config
+C:\Users\Admin\Desktop\BaiKiemTra01\Bai02\Code\QuanLyPhuongTien1\QuanLyPhuongTien1\bin\Debug\QuanLyPhuongTien1.exe
+C:\Users\Admin\Desktop\BaiKiemTra01\Bai02\Code\QuanLyPhuongTien1\QuanLyPhuongTien1\bin\Debug\QuanLyPhuongTien1.pdb
+C:\Users\Admin\Desktop\BaiKiemTra01\Bai02\Code\QuanLyPhuongTien1\QuanLyPhuongTien1\obj\Debug\QuanLyPhuongTien1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BaiKiemTra01\Bai02\Code\QuanLyPhuongTien1\QuanLyPhuongTien1\obj\Debug\QuanLyPhuongTien1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BaiKiemTra01\Bai02\Code\QuanLyPhuongTien1\QuanLyPhuongTien1\obj\Debug\QuanLyPhuongTien1.exe
+C:\Users\Admin\Desktop\BaiKiemTra01\Bai02\Code\QuanLyPhuongTien1\QuanLyPhuongTien1\obj\Debug\QuanLyPhuongTien1.pdb
